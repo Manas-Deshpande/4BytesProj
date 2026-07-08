@@ -46,16 +46,6 @@
 
 /* CONTACT */
 
-.contact-section{
-    min-height:100vh;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
-    background:linear-gradient(135deg,#1e3c72,#2a5298);
-    color:white;
-    padding:100px 20px;
-}
 
 .contact-section h2{
     font-size:48px;
@@ -98,6 +88,7 @@
 .contact-form button:hover{
     background:#00a8cc;
     transform:translateY(-3px);
+}
 
 html{
     scroll-behavior:smooth;
